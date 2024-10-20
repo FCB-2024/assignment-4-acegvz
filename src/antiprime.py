@@ -15,8 +15,8 @@ def a(n):
 	max_div = 0
 	for s in range (1, n):
 		div_count = c(s)
-	if div_count > max_div:
-		max_div = div_count
+		if div_count > max_div:
+			max_div = div_count
 	return c(n) > max_div
 
 
