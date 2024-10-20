@@ -6,7 +6,7 @@ def c(n):
 	while i * i <= n:
 		if n % i == 0:
 			count = count + 1
-			if i != n:
+			if i != n // i:
 				count = count + 1
 		i = i + 1
 	return count
@@ -17,7 +17,8 @@ def a(n):
 		div_count = c(s)
 		if div_count > max_div:
 			max_div = div_count
-	return c(n) >= max_div
+	
+	return c(n) > max_div
 
 
 def main():
