@@ -17,7 +17,7 @@ def a(n):
 		div_count = c(s)
 		if div_count > max_div:
 			max_div = div_count
-	return c(n) > max_div
+	return c(n) >= max_div
 
 
 def main():
