@@ -1,0 +1,16 @@
+* Did you use the GitHub user profile you provided in the first assignment? Yes
+* Did you properly agree to the academic integrity statement? Yes
+* Does the assignment contain the required files? Yes
+* Does the Python program src/antiprime.py runs without errors? Yes
+* Does the Python program src/antiprime.py identifies anti-prime and non-anti-prime numbers correctly? Yes
+* Does the Python program src/antiprime.py passes all autograding tests? Yes
+* Was the assignment submitted on time: Yes (last commit on Sun Oct 20 19:36:32 2024)
+
+If the first question is negatively answered, a penalty of -1 points will be applied.
+If the second question is negatively answered, the whole mark is 0.
+The third question adds up 1 point to the grade.
+The fourth question adds up 2 point to the grade.
+The fifth question adds up 5 points to the grade.
+The sixth question adds up 2 points to the grade.
+
+Grade: 10
